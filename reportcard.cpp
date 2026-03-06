@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string.h>
+#include<sting>
 using namespace std;
 class Student{
     private:
@@ -12,7 +12,7 @@ class Student{
 
     public:
     Student(){
-        cout<<" Enter Name of Student :"<<endl;
+        cout<<" Enter name of student  : "<<endl;
         getline(cin,name);
         cout<<" Enter roll number :"<<endl;
         cin>>rollNo;
@@ -68,4 +68,5 @@ int main(){
 
 
     return 0;
+
 }
