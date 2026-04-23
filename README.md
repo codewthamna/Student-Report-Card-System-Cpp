@@ -14,7 +14,7 @@ The goal of this project is to practice **OOP concepts, arrays, and conditional 
 * C++
 * Object-Oriented Programming (Classes & Objects)
 * Arrays
-* Conditional Statements (If - E
+* Conditional Statements (If - Els
 * Console Input/Output
 
 ---
